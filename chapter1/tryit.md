@@ -290,3 +290,57 @@ $$
 | 2006 | 38648     | 0.0591             | 0.7515                        |
 
 The cumulative relative frequency for 2006 is $0.7515$. This tells us that more than $75\%$ of all the fatal crashes (till 2011) occurred before 2007.
+
+## 1.15. Design a study to test the response time of drivers while texting and while driving only.
+
+> You are concerned about the effects of texting on driving performance. How many seconds does it take for a driver to respond when a leading car hits the brakes?
+
+The researcher invites 10 drivers of age 20 to 30, 10 drivers of age 30 to 40, 10 drivers of age 40 to 50, and 10 drivers of age 50 to 60. Each subject is told to sit in the driver's seat of a dummy car which is parked behind another dummy car. They are told to hit the brakes as soon as they see the car in front press brakes.
+
+The participants are required to text while driving for three trials and focus on driving only for three trials. The participants are assigned at random to text while driving during the first three trials or during the last three trials. For each trial, the time starting from when the leading car hits brake till when the subject hits the brake is recorded.
+
+### 1.15.1. Describe the explanatory and response variables in this study?
+
+The explanatory variable is the driver's current focus, and the response variable is the time it takes to hit the brake when the leading car hits the brake.
+
+### 1.15.2. What are the treatments?
+
+There are two treatments: focus on texting while driving and focus on driving only.
+
+### 1.15.3. What should you consider when selecting participants?
+
+Since human response time degrades with age (young people have a much faster reaction time), it is necessary to consider all age groups. So a stratified sample based on age groups should be considered, and if possible, there should be an equal number of male and female drivers in each age group.
+
+### 1.15.4. Your research partner wants to divide participants randomly into two groups: one to drive without distraction and one to text and driving simultaneously. Is this a good idea? Why or why not?
+
+No, this is not a good idea. The human reaction time is vary random. Some people have a very fast reaction time even when texting and some people are just slow to react. In order to remove the variability of an individual's reaction time as a lurking variable, each participant should be required to act in both cases: drive without distractioon and text while driving.
+
+### 1.15.5. Identify any lurking variables that could interfere with this study.
+
+The human reaction time has a lot of variability and the observed change in the response variable could simply be because the individual just had a very slow or fast reaction time. It is therefore a lurking variable.
+
+### 1.15.6. How can blinding be used in this study?
+
+The participants can not be blinded since they are aware whether they are texting while driving or driving only. However, the researcher who is timing the response time can be blinded. That reseacher will not know whether the participant is texting while driving or driving only.
+
+## 1.16. Describe the unethical behavior, if any, in each example and describe how it could impact the reliability of the resulting data. Explain how the problem should be corrected.
+
+> A study is commissioned to determine the favorite brand of fruit juice among teens in California.
+
+### 1.16.1. The survey is commissioned by the seller of a popular brand of apple juice.
+
+The survey results are prone to be biased in favor of that brand of apple juice. This could happen in many ways; for example, the brand might lobby the researchers to select only those areas where they have done good marketing to ensure that the participants like that apple juice brand, or the brand might require the researchers to highlight the statistics in such a way that favors that brand.
+
+If you do need to get sponsored by a juice brand, it should be made very clear in the agreement that the survey will be neutral and random, and that the payment made is not to make that brand look good. The survey will still be random and the statistics will be fair.
+
+### 1.16.2. There are only two types of juice included in the study: apple juice and cranberry juice.
+
+The survey results will be horribly misleading. This is because when only two juice categories are considered, one of them must be a winner, and the relative frequencies would be meaningless, since the participants are forced to choose one of the two. To fix this, more juice types needs to be added to the survey, so the statistics reflect true popularity.
+
+### 1.16.3. Researchers allow participants to see the brand of juice as samples are poured for a taste test.
+
+The survey is not blinded, and thus the data will be biased. Simply seeing the brand of juice without first tasting it could create an anchor bias. The solution to this is to make the survey double-blinded, where neither the researcher giving taste samples nor the participants know which brand is being poured.
+
+### 1.16.4. Twenty-five percent of participants prefer Brand X, 33% prefer Brand Y, and 42% have no preference between the two brands. Brand X references the study in a commerical saying "Most teens like Brand X as much as or more than Brand Y."
+
+This is clearly incorrect and a fraud. This can be fixed by filing a lawsuit against the Brand X for false advertisement.
