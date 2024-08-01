@@ -1,4 +1,4 @@
-# Try It
+# Exercises
 
 ## 1.1. Determine what the key terms refer to in the following study.
 
