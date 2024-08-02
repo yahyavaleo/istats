@@ -1,0 +1,57 @@
+figure.facecolor: white
+
+patch.linewidth: 0.5
+patch.facecolor: 348ABD
+patch.edgecolor: EEEEEE
+patch.antialiased: True
+
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+
+image.cmap: Greys
+lines.solid_capstyle: round
+
+font.family: sans-serif
+font.sans-serif: Arial, Liberation Sans, DejaVu Sans, sans-serif
+font.size: 10
+text.color: .15
+
+axes.prop_cycle: cycler("color", ["83CEC1", "FFFCAC", "B7B3D6", "FA7567", "75AACE", "FDAD56", "ACDA5E"])
+
+axes.titlesize: large
+axes.titleweight: bold
+axes.titlecolor: .15
+axes.labelsize: 11
+axes.labelcolor: .15
+
+axes.grid: True
+grid.color: white
+grid.linestyle: -
+axes.axisbelow: True
+
+axes.facecolor: E5E5E5
+axes.edgecolor: .15
+axes.linewidth: 1
+
+axes.spines.top: False
+axes.spines.right: False
+axes.spines.bottom: True
+axes.spines.left: True
+
+xtick.color: .15
+ytick.color: .15
+
+xtick.direction: out
+ytick.direction: out
+
+xtick.major.size: 5
+ytick.major.size: 5
+xtick.minor.size: 3
+ytick.minor.size: 3
+
+figure.constrained_layout.use: True
+figure.constrained_layout.h_pad: 0.15
+figure.constrained_layout.w_pad: 0.15
+figure.constrained_layout.hspace: 0.15
+figure.constrained_layout.wspace: 0.15
