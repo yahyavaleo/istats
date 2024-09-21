@@ -187,7 +187,7 @@ The frequency polygon of this data is shown below:
 
 <img src="data/2-10.png" width=512>
 
-## 2.12. Use the table to construct a time series graph for C0₂ emissions for these countries.
+## 2.11. Use the table to construct a time series graph for C0₂ emissions for these countries.
 
 > The following table is a portion of a dataset from [World Bank](www.worldbank.org).
 
@@ -205,7 +205,7 @@ The time series graph for this data is shown below:
 
 <img src="data/2-12.png" width=512>
 
-## 2.13. For the following 11 salaries, calculate the IQR and determine if any salaries are outliers.
+## 2.12. For the following 11 salaries, calculate the IQR and determine if any salaries are outliers.
 
 > The salaries are in dollars.
 
@@ -215,7 +215,7 @@ $$
 
 The interquartile range (IQR) is $\$27,500$. There is one outlier salary which is $\$120,000$.
 
-## 2.14. Find the interquartile range for the following two datasets and compare them.
+## 2.13. Find the interquartile range for the following two datasets and compare them.
 
 | Class | Test scores                                                                       |
 | ----- | --------------------------------------------------------------------------------- |
@@ -224,7 +224,7 @@ The interquartile range (IQR) is $\$27,500$. There is one outlier salary which i
 
 Interquartile range of class A is $16.0$ while the interquartile range of class B is $20.0$. This means that there is a larger variability in the test scores for class B compared to class A.
 
-## 2.15. Find the $65^{\text{th}}$ percentile.
+## 2.14. Find the $65^{\text{th}}$ percentile.
 
 > Forty bus drivers were asked how many hours they spend each day running their routes (rounded to the nearest hour).
 
@@ -236,3 +236,41 @@ Interquartile range of class A is $16.0$ while the interquartile range of class 
 | 5                    | 4         | 0.10               | 1.00                          |
 
 There are $40$ data values and $65\%$ of $40$ is $26$, therefore the $65^{\text{th}}$ percentile is between the $26^{\text{th}}$ and $27^{\text{th}}$ data values. Therefore, the $65^{\text{th}}$ percentile is $3.5$.
+
+## 2.15. Find the third quartile. What is another name for the third quartile?
+
+> Forty bus drivers were asked how many hours they spend each day running their routes (rounded to the nearest hour).
+
+| Hours spend on route | Frequency | Relative frequency | Cumulative relative frequency |
+| -------------------- | --------- | ------------------ | ----------------------------- |
+| 2                    | 12        | 0.30               | 0.30                          |
+| 3                    | 14        | 0.35               | 0.65                          |
+| 4                    | 10        | 0.25               | 0.90                          |
+| 5                    | 4         | 0.10               | 1.00                          |
+
+Third quartile is also called the $75^{\text{th}}$ percentile. For this data, it is the $30^{\text{th}}$ data value, which happens to be a $4$.
+
+$$
+i = 0.75 \times 40 = 30 \\[4pt]
+Q_{3} = P_{75} = \text{data}[30] = 4
+$$
+
+## 2.16. Calculate the $20^{\text{th}}$ and $55^{\text{th}}$ percentile.
+
+> Listed are 29 ages for Academy Award winning best actors in order from smallest to largest.
+
+$$
+18, 21, 22, 25, 26, 27, 29, 30, 31, 33, 36, 37, 41, 42, 47, 52, 55, 57, 58, 62, 64, 67, 69, 71, 72, 73, 74, 76, 77
+$$
+
+The $20^{\text{th}}$ percentile is $28$ and the $55^{\text{th}}$ percentile is $53.5$.
+
+## 2.17. Find the percentiles for 47 and 31.
+
+> Listed are 30 ages for Academy Award winning best actors in order from smallest to largest.
+
+$$
+18, 21, 22, 25, 26, 27, 29, 30, 31, 31, 33, 36, 37, 41, 42, 47, 52, 55, 57, 58, 62, 64, 67, 69, 71, 72, 73, 74, 76, 77
+$$
+
+The value $47$ is the $53^{\text{th}}$ percentile and the value 31 is the $32^{\text{th}}$ percentile.
